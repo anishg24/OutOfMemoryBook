@@ -34,3 +34,7 @@ Balancing the creative process with college commitments is a key consideration a
 
 - [DeepSeek R1](https://ollama.com/library/deepseek-r1)
 - [Llama 3.2](https://ollama.com/library/llama3.2)
+
+# Story Inspirations
+
+- Cyberpunk 2077
